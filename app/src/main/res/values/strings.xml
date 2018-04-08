@@ -1,0 +1,86 @@
+<resources>
+    <!--App name text -->
+    <string name="app_name">Soccer Quiz</string>
+    <!--Question 1 text-->
+    <string name="question_1">1. Regulation time consists of two ______ minute halves.</string>
+    <!--Question 2 text-->
+    <string name="question_2">2. Each team can have a maximum of _______ players including a goalie.</string>
+    <!--Question 3 text-->
+    <string name="question_3">3. The two types of free kicks are?</string>
+    <!--Question 4 text-->
+    <string name="question_4">4. Only the goalie is allowed to use their hands anywhere on the field.</string>
+    <!--Question 5 text-->
+    <string name="question_5">5. If an offensive player is fouled inside the box, the result is a ______ kick.</string>
+    <!--Question 5 answer text-->
+    <string name="question_5_Answer">penalty</string>
+    <!--Question 6 text-->
+    <string name="question_6">6. After a players ______ yellow card, they are sent off.</string>
+    <!--Summary quiz results text-->
+    <string name="summary_results_text">Submit answers to view results</string>
+    <!--Question 1 Answer A text-->
+    <string name="answer_1_A">35</string>
+    <!--Question 1 Answer B text-->
+    <string name="answer_1_B">40</string>
+    <!--Question 1 Answer C text-->
+    <string name="answer_1_C">45</string>
+    <!--Question 1 Answer D text-->
+    <string name="answer_1_D">50</string>
+    <!--Question 2 Answer A text-->
+    <string name="answer_2_A">10</string>
+    <!--Question 2 Answer B text-->
+    <string name="answer_2_B">11</string>
+    <!--Question 2 Answer C text-->
+    <string name="answer_2_C">12</string>
+    <!--Question 2 Answer D text-->
+    <string name="answer_2_D">13</string>
+    <!--Question 3 Answer A text-->
+    <string name="answer_3_A">Lateral</string>
+    <!--Question 3 Answer B text-->
+    <string name="answer_3_B">Backward</string>
+    <!--Question 3 Answer C text-->
+    <string name="answer_3_C">Direct</string>
+    <!--Question 3 Answer D text-->
+    <string name="answer_3_D">Indirect</string>
+    <!--Question 4 Answer A text-->
+    <string name="answer_4_A">True</string>
+    <!--Question 4 Answer B text-->
+    <string name="answer_4_B">or</string>
+    <!--Question 4 Answer C text-->
+    <string name="answer_4_C">False</string>
+    <!--Question 5 text answer-->
+    <string name="type_answer">Type Answer</string>
+    <!--Question 6 Answer A text-->
+    <string name="answer_6_A">1st</string>
+    <!--Question 6 Answer B text-->
+    <string name="answer_6_B">2nd</string>
+    <!--Question 6 Answer C text-->
+    <string name="answer_6_C">3rd</string>
+    <!--Question 6 Answer D text-->
+    <string name="answer_6_D">4th</string>
+    <!--Submit answers button text-->
+    <string name="submit_answers">Submit Answers</string>
+    <!--Reset quiz button text-->
+    <string name="reset_quiz">Reset Quiz</string>
+    <!--Summary result question messages-->
+    <string name="q_1">Question 1:</string>
+    <string name="q_2">Question 2:</string>
+    <string name="q_3">Question 3:</string>
+    <string name="q_4">Question 4:</string>
+    <string name="q_5">Question 5:</string>
+    <string name="q_6">Question 6:</string>
+    <string name="correct">Correct\n</string>
+    <string name="incorrect">Incorrect\n</string>
+    <string name="q_1_correct_message">A soccer match consists of two 45 minute halves.\n\n</string>
+    <string name="q_1_incorrect_message">A full match is 90 minutes long.\n\n</string>
+    <string name="q_2_correct_message">Each team begins with 10 field players plus a goalie.\n\n</string>
+    <string name="q_2_incorrect_message">There are a total of 22 players on a field.\n\n</string>
+    <string name="q_3_correct_message">The two types of free kicks are indirect and direct.\n\n</string>
+    <string name="q_3_incorrect_message">One type of free kick can lead to a direct goal.\n\n</string>
+    <string name="q_4_correct_message">A goalie is only allowed to use their hands inside the penalty box.\n\n</string>
+    <string name="q_4_incorrect_message">Outside the penalty box a goalie is considered a field player.\n\n</string>
+    <string name="q_5_correct_message">A penalty kick is awarded if an offensive player is fouled in the box.\n\n</string>
+    <string name="q_5_incorrect_message">This is a special type of a direct free kick.\n\n</string>
+    <string name="q_6_correct_message">A player is sent off after their second yellow card.\n\n</string>
+    <string name="q_6_incorrect_message">One red card results in a sending off. There are only two colors of cards.\n\n</string>
+    <string name="results">Results:\n\n</string>
+</resources>
